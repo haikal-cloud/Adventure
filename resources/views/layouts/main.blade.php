@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Adventure | Explore Indonesia with VR From Anywhere</title>
+    <title>Yowishome | Explore 360 Real Estate From Anywhere</title>
     <link rel="shortcut icon" href="{{ asset('/') }}img/favicon.png" />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&family=Poppins:wght@300;400;500;600;700&display=swap" />
